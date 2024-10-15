@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Iphone 15 Pro max",
+        "price": 245.67,
+        "description": "The iPhone 15 Pro features a 48MP main camera with advanced A16 Bionic Chip. It offers superior performance, a sleek design, and long battery life.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/12.jpg"
+            }
+        ],
+        "category": "Mobile Phones",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "MacBook Pro 14",
+        "price": 150.32,
+        "description": "The Most Advanced Laptop for Demanding Workflows with M3 MAX Chip Up to 12 Cores",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/11.jpg"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "AirPods 3rd Gen",
+        "price": 440.57,
+        "description": "Upto 6 Hours of Listening and Personalized Spatial Audio with Dynamic Head Tracking",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/13.jpg"
+            }
+        ],
+        "category": "Accessories",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Apple Watch 9",
+        "price": 250.45,
+        "description": "Always-On Retina Display, Double Tap Gesture, Available Cellular Connectivity, Up to 18 Hours Battery Life",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/products/14.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "Home Pod Mini",
+        "price": 767.32,
+        "description": "HomePod Mini, 20W Power Adapter,20W,Smart Speaker",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/products/17.jpg"
+          }
+        ],
+        "category": "Laptops",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "IPad Pro",
+        "price": 15.46,
+        "description": "33.02 cm or 28.22 cm M4 Chip, Landscape 12MP Ultra Wide Front Camera, TrueDepth Camera System",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/products/15.jpg"
+            }
+        ],
+        "category": "Headphones",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "AirPod Max",
+        "price": 10.12,
+        "description": "New Apple AirPods Max -Blue,Active Noise Cancellation blocks outside noise",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/products/16.jpg"
+            }
+        ],
+        "category": "Sports",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
